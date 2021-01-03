@@ -1,6 +1,8 @@
-img/
 video/
 .idea/
-img/
 *.pyc
 *.xml
+*.pptx
+*.mov
+*.mp4
+.DS_Store
